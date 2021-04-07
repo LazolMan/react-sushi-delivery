@@ -1,0 +1,181 @@
+$blue: #062cac;
+$pink: #f3bac2;
+
+body {
+  background-color: $pink;
+  color: $blue;
+}
+
+.wrapper {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.grid {
+  background: linear-gradient($blue, transparent 1px),
+    linear-gradient(90deg, $blue, transparent 1px);
+  background-size: 30px 30px;
+  background-position: center center;
+  border: 2px solid $blue;
+
+  &__item {
+    background-color: $pink;
+    border: 1px solid $blue;
+    display: flex;
+    margin: 15px;
+  }
+}
+
+.bttn {
+  padding: 10px;
+  border: 1px solid $blue;
+  font-size: 21px;
+  letter-spacing: 0.05em;
+  cursor: pointer;
+  transition: all 0.3s;
+
+  &_active {
+    background-color: $blue;
+    color: $pink;
+  }
+
+  &:active {
+    background-color: $blue;
+    color: $pink;
+    transition: all 0.3s;
+  }
+
+  &:hover {
+    background-color: $blue;
+    color: $pink;
+    transition: all 0.3s;
+  }
+}
+
+.img {
+  height: 150px;
+  width: 150px;
+  filter: grayscale(50%);
+}
+
+.header {
+  margin-top: 35px;
+
+  &__box {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  &__logo {
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: bold;
+    font-style: italic;
+  }
+
+  &__bag {
+    font-size: 21px;
+  }
+
+  &__bag-img {
+    height: 40px;
+    margin-left: 10px;
+  }
+}
+
+.main {
+  margin-top: 50px;
+}
+
+.categories {
+  display: flex;
+}
+
+.menu-item {
+  &__img {
+    height: 150px;
+    width: 150px;
+    filter: grayscale(50%);
+  }
+
+  &__text {
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+    padding-right: 10px;
+  }
+
+  &__header {
+    display: flex;
+    justify-content: space-between;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 5px;
+  }
+
+  &__desc {
+    margin-top: 10px;
+    font-size: 18px;
+  }
+
+  &__bttn {
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+.content {
+  margin-top: 50px;
+  
+
+  &__header {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  &__clear-text {
+    min-height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  &__clear-title{
+    font-size: 30px;
+  }
+}
+
+.bag-item {
+  font-size: 30px;
+  font-weight: 700;
+  display: flex;
+  background-color: $pink;
+
+  &__text {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 0 15px;
+  }
+
+  &__title{
+    width: 33%;
+  }
+
+  &__delete,
+  &__add {
+    margin: 0 5px;
+    cursor: pointer;
+  }
+
+  &__trash {
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+  }
+}

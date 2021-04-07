@@ -1,0 +1,157 @@
+{
+    "menu": [
+      {
+        "id": 0,
+        "imageUrl": "https://jinramensushi.com/img/menu/1/1.jpg",
+        "name": "EDAMAME",
+        "desc": "Steamed green soybeans with yuzu salt",
+        "price": 5.50,
+        "category": 0,
+        "weight": 35
+      },
+      {
+        "id": 1,
+        "imageUrl": "https://jinramensushi.com/img/gallery/3.jpg",
+        "name": "PICKLED DAIKON RADISH",
+        "desc": "With Sichuan spicy oil",
+        "price": 5.50,
+        "category": 0,
+        "weight": 35
+      },
+      {
+        "id": 2,
+        "imageUrl": "https://jinramensushi.com/img/gallery/6.jpg",
+        "name": "SHRIMP SHUMAI",
+        "desc": "Steamed mini shrimp dumplings",
+        "price": 6.00,
+        "category": 0,
+        "weight": 179
+      },
+      {
+        "id": 3,
+        "imageUrl": "https://jinramensushi.com/img/gallery/7.jpg",
+        "name": "SCALLION PANCAKES",
+        "desc": "Fried dough, scallion & side of sweet-chili sauce",
+        "price": 6.50,
+        "category": 0,
+        "weight": 187
+      },
+      {
+        "id": 4,
+        "imageUrl": "https://jinramensushi.com/img/gallery/4.jpg",
+        "name": "PORK BUNS",
+        "desc": "2pcs, with scallion, cucumber & hoisin sauce",
+        "price": 8.95,
+        "category": 1,
+        "weight": 854
+      },
+      {
+        "id": 5,
+        "imageUrl": "https://jinramensushi.com/img/gallery/5.jpg",
+        "name": "CALIFORNIA BUNS",
+        "desc": "2pcs, with crabmeat, avocado & spicy mayo",
+        "price": 8.95,
+        "category": 1,
+        "weight": 963
+      },
+      {
+        "id": 6,
+        "imageUrl": "https://jinramensushi.com/img/gallery/40.jpg",
+        "name": "TONKATSU RAMEN OR UDON",
+        "desc": "Pork & chicken broth, shoyu base, pork belly or chicken, kikurage, menma, namuru, sesame seeds, egg & scallions",
+        "price": 13.95,
+        "category": 1,
+        "weight": 235
+      },
+      {
+        "id": 7,
+        "imageUrl": "https://jinramensushi.com/img/gallery/39.jpg",
+        "name": "SCOTTISH SALMON TORO",
+        "desc": "With mango, avocado and masago",
+        "price": 11.00,
+        "category": 2,
+        "weight": 253
+      },
+      {
+        "id": 8,
+        "imageUrl": "https://jinramensushi.com/img/gallery/37.jpg",
+        "name": "PEANUT AVOCADO",
+        "desc": "With honey-wasabi sauce",
+        "price": 8.50,
+        "category": 2,
+        "weight": 130
+      },
+      {
+        "id": 9,
+        "imageUrl": "https://jinramensushi.com/img/gallery/35.jpg",
+        "name": "MAKI COMBO",
+        "desc": "Tuna, salmon & yellowtail roll or hand roll",
+        "price": 15.95,
+        "category": 3,
+        "weight": 130
+      },
+      {
+        "id": 10,
+        "imageUrl": "https://jinramensushi.com/img/gallery/32.jpg",
+        "name": "TRI-COLOR SUSHI",
+        "desc": "3 pcs each of tuna, salmon, yellowtail & California roll",
+        "price": 22.95,
+        "category": 3,
+        "weight": 130
+      },
+      {
+        "id": 11,
+        "imageUrl": "https://jinramensushi.com/img/gallery/18.jpg",
+        "name": "CHIRASHI",
+        "desc": "Assorted raw fish over rice",
+        "price": 20.95,
+        "category": 3,
+        "weight": 130
+      },
+      {
+        "id": 12,
+        "imageUrl": "https://jinramensushi.com/img/gallery/22.jpg",
+        "name": "SUSHI LUNCH",
+        "desc": "5 pcs assorted sushi & 1 California roll",
+        "price": 13.95,
+        "category": 4,
+        "weight": 130
+      },
+      {
+        "id": 13,
+        "imageUrl": "https://jinramensushi.com/img/gallery/20.jpg",
+        "name": "SUSHI & SASHIMI LUNCH",
+        "desc": "4pcs sushi, 6 pcs sashimi & 1 spicy tuna roll",
+        "price": 16.95,
+        "category": 4,
+        "weight": 130
+      },
+      {
+        "id": 14,
+        "imageUrl": "https://jinramensushi.com/img/gallery/14.jpg",
+        "name": "MAKI DUET LUNCH",
+        "desc": "AChoice of any 2 regular or hand rolls",
+        "price": 12.95,
+        "category": 4,
+        "weight": 130
+      },
+      {
+        "id": 15,
+        "imageUrl": "https://jinramensushi.com/img/gallery/42.jpg",
+        "name": "GREEN TEA CHEESECAKE",
+        "desc": "",
+        "price": 3.50,
+        "category": 5,
+        "weight": 130
+      },
+      {
+        "id": 16,
+        "imageUrl": "https://jinramensushi.com/img/gallery/43.jpg",
+        "name": "MOCHI ICE CREAM",
+        "desc": "3 pcs of Green tea, Vanilla, Red Bean, Strawberry or Mango",
+        "price": 6.00,
+        "category": 5,
+        "weight": 130
+      }
+    ]
+  }
